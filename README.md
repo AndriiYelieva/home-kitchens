@@ -1,8 +1,8 @@
-# Windows World
+# Home kitchens
 
 ## Project Overview
 
-The Windows World is a modern website that specializes in the production and sale of windows and doors. Our website offers a wide range of high quality windows and doors for all needs and tastes.
+The Home kitchens is a modern website that specializes in the production and sale of kitchens. 
 
 ## Technologies and tools
 
@@ -11,12 +11,11 @@ The Windows World is a modern website that specializes in the production and sal
 - **swiper**: A library for creating modern and dynamic sliders and carousels
 - **Type Script**: An advanced JavaScript syntax with static typing to make development easier and avoid errors
 - **classnames**: A utility for dynamically setting classes in React
-- **react-dropzone**: A React component for selecting and dragging files
 - **Sass**: CSS preprocessor for styling
 
 ## Preview
 
-You can view a live demo site at this link:  ([Windows world](https://andriiyelieva.github.io/windows-world/)).
+You can view a live demo site at this link:  ([Home Kitchens](https://andriiyelieva.github.io/home-kitchens/)).
 
 ## Launching the Project.
 
