@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/home-kitchens/static/css/main.50d28a67.css",
+    "main.js": "/home-kitchens/static/js/main.22735a07.js",
+    "static/media/header-home.png": "/home-kitchens/static/media/header-home.3ed0ee8f3513358dcf15.png",
+    "static/media/handmade.png": "/home-kitchens/static/media/handmade.956ee7da95e7c6fed986.png",
+    "static/media/Bitmap-1.png": "/home-kitchens/static/media/Bitmap-1.6c7bf4df9cc0872a3438.png",
+    "static/media/Bitmap-2.png": "/home-kitchens/static/media/Bitmap-2.ea4298e28d53020ed4ed.png",
+    "static/media/Bitmap-4.png": "/home-kitchens/static/media/Bitmap-4.1d844bcadcea144d35ec.png",
+    "static/media/Bitmap-3.png": "/home-kitchens/static/media/Bitmap-3.471357e99ac134e83486.png",
+    "static/media/logo.svg": "/home-kitchens/static/media/logo.af9506e4e139d7f9ff13.svg",
+    "static/media/menu.svg": "/home-kitchens/static/media/menu.85e0654e06c7bd954736.svg",
+    "static/media/instagram-footer.svg": "/home-kitchens/static/media/instagram-footer.6408b3e3c55c722ae0d6.svg",
+    "static/media/instagram.svg": "/home-kitchens/static/media/instagram.01aec6a0d3011ed71d93.svg",
+    "index.html": "/home-kitchens/index.html",
+    "static/media/twitter-footer.svg": "/home-kitchens/static/media/twitter-footer.04526658101da260f817.svg",
+    "static/media/twitter.svg": "/home-kitchens/static/media/twitter.60bee918fc90a2a1e07b.svg",
+    "static/media/shopping-cart-hover.svg": "/home-kitchens/static/media/shopping-cart-hover.8f045f1064aedf01a7f1.svg",
+    "static/media/shopping-cart.svg": "/home-kitchens/static/media/shopping-cart.70be0ccbbcede4d7779e.svg",
+    "static/media/facebook-footer.svg": "/home-kitchens/static/media/facebook-footer.7ceddb40fa22b1d91dfe.svg",
+    "static/media/arrow-right.svg": "/home-kitchens/static/media/arrow-right.a43299bcced030a31823.svg",
+    "static/media/facebook.svg": "/home-kitchens/static/media/facebook.8829d44bd5418177831e.svg",
+    "static/media/close.svg": "/home-kitchens/static/media/close.25c50bc12cf810d96361.svg",
+    "static/media/arrow-left.svg": "/home-kitchens/static/media/arrow-left.8cec6ba1fbcb59b828ee.svg",
+    "main.50d28a67.css.map": "/home-kitchens/static/css/main.50d28a67.css.map",
+    "main.22735a07.js.map": "/home-kitchens/static/js/main.22735a07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50d28a67.css",
+    "static/js/main.22735a07.js"
+  ]
+}
